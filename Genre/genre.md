@@ -1,6 +1,6 @@
 # Genre Covers
 
-_Last updated: Apr 14, 2026, 11:23 AM_
+_Last updated: Apr 14, 2026, 11:27 AM_
 
 ## Sci-Fi
 
