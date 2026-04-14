@@ -1,44 +1,44 @@
 # Genre Covers
 
-_Last updated: Apr 14, 2026, 11:37 AM_
+_Last updated: Apr 14, 2026, 11:54 AM_
 
 ## Sci-Fi
 
-![Sci-Fi Cover](https://raw.githubusercontent.com/101Aditya/Context/60d099d05a6c216975631b62b360eb50d0b65bf0/Genre/sci-fi.jpg)
+![Sci-Fi Cover](https://raw.githubusercontent.com/101Aditya/Context/4e8fb0f8afb1713d7d5392b250e5f7a5a2d65c54/Genre/sci-fi.jpg)
 
 ## Drama
 
-![Drama Cover](https://raw.githubusercontent.com/101Aditya/Context/d191d7ad0daface3b0fc1b0bb9e77dbae04c21ab/Genre/drama.jpg)
+![Drama Cover](https://raw.githubusercontent.com/101Aditya/Context/95dca8b58f93f2ebb359eafc497a49504511b8d4/Genre/drama.jpg)
 
 ## Comedy
 
-![Comedy Cover](https://raw.githubusercontent.com/101Aditya/Context/3000abac53e83ea93d986241bc474b8a422b5222/Genre/comedy.jpg)
+![Comedy Cover](https://raw.githubusercontent.com/101Aditya/Context/251ecde23c94d3d4f8ee12c7ba1b2e622dc1e17d/Genre/comedy.jpg)
 
 ## Action
 
-![Action Cover](https://raw.githubusercontent.com/101Aditya/Context/9a356e4505489758d2e91c5d1dc89ad07364792a/Genre/action.jpg)
+![Action Cover](https://raw.githubusercontent.com/101Aditya/Context/cc6c525806b4ea406ad6e69eb63c58f7c477e1f2/Genre/action.jpg)
 
 ## Crime
 
-![Crime Cover](https://raw.githubusercontent.com/101Aditya/Context/bb91425a588bc846c37612a5baf40a4430f45b33/Genre/crime.jpg)
+![Crime Cover](https://raw.githubusercontent.com/101Aditya/Context/0434fa3befdb4f6a5fb8f07b436f4de56cecdd1f/Genre/crime.jpg)
 
 ## Horror
 
-![Horror Cover](https://raw.githubusercontent.com/101Aditya/Context/bc466f3db2222b1de95949eb6da65706b984b287/Genre/horror.jpg)
+![Horror Cover](https://raw.githubusercontent.com/101Aditya/Context/1763a900ccd212b3b96f975e8c173f7fe51d92a4/Genre/horror.jpg)
 
 ## Fantasy
 
-![Fantasy Cover](https://raw.githubusercontent.com/101Aditya/Context/c0a1249ee33234dc1ba1665f39b8ff4c7d4f5e27/Genre/fantasy.jpg)
+![Fantasy Cover](https://raw.githubusercontent.com/101Aditya/Context/8ecec4fe80387c79fcacd64717a9c42507f0f0ca/Genre/fantasy.jpg)
 
 ## Romance
 
-![Romance Cover](https://raw.githubusercontent.com/101Aditya/Context/de6c756025f98f573bbf44842471979345d38ffc/Genre/romance.jpg)
+![Romance Cover](https://raw.githubusercontent.com/101Aditya/Context/41042e58da8a53c1dd04590b91ab1f9719788056/Genre/romance.jpg)
 
 ## Thriller
 
-![Thriller Cover](https://raw.githubusercontent.com/101Aditya/Context/e9216abe089c2c86769a7e0fbe9913926c5726a6/Genre/thriller.jpg)
+![Thriller Cover](https://raw.githubusercontent.com/101Aditya/Context/c33e4d9c465d0040458ad77ddf63e3e6bd77416c/Genre/thriller.jpg)
 
 ## Animation
 
-![Animation Cover](https://raw.githubusercontent.com/101Aditya/Context/82f424e733562fc5c986ecde374f121c60ec2f34/Genre/animation.jpg)
+![Animation Cover](https://raw.githubusercontent.com/101Aditya/Context/6d37f5b14362736756885d9b973fc436632c5de6/Genre/animation.jpg)
 
