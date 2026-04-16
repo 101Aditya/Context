@@ -1,44 +1,44 @@
 # Genre Covers
 
-_Last updated: Apr 14, 2026, 1:23 PM_
+_Last updated: Apr 16, 2026, 4:54 PM_
 
 ## Action
 
-![Action Cover](https://raw.githubusercontent.com/101Aditya/Context/refs/heads/main/Genre/action.jpg)
+![Action Cover](https://raw.githubusercontent.com/101Aditya/Context/refs/heads/main/genre/action.jpg)
 
 ## Sci-Fi
 
-![Sci-Fi Cover](https://raw.githubusercontent.com/101Aditya/Context/refs/heads/main/Genre/sci-fi.jpg)
+![Sci-Fi Cover](https://raw.githubusercontent.com/101Aditya/Context/refs/heads/main/genre/sci-fi.jpg)
 
 ## Fantasy
 
-![Fantasy Cover](https://raw.githubusercontent.com/101Aditya/Context/refs/heads/main/Genre/fantasy.jpg)
+![Fantasy Cover](https://raw.githubusercontent.com/101Aditya/Context/refs/heads/main/genre/fantasy.jpg)
 
 ## Drama
 
-![Drama Cover](https://raw.githubusercontent.com/101Aditya/Context/refs/heads/main/Genre/drama.jpg)
+![Drama Cover](https://raw.githubusercontent.com/101Aditya/Context/refs/heads/main/genre/drama.jpg)
 
 ## Horror
 
-![Horror Cover](https://raw.githubusercontent.com/101Aditya/Context/refs/heads/main/Genre/horror.jpg)
+![Horror Cover](https://raw.githubusercontent.com/101Aditya/Context/refs/heads/main/genre/horror.jpg)
 
 ## Thriller
 
-![Thriller Cover](https://raw.githubusercontent.com/101Aditya/Context/refs/heads/main/Genre/thriller.jpg)
+![Thriller Cover](https://raw.githubusercontent.com/101Aditya/Context/refs/heads/main/genre/thriller.jpg)
 
 ## Romance
 
-![Romance Cover](https://raw.githubusercontent.com/101Aditya/Context/refs/heads/main/Genre/romance.jpg)
+![Romance Cover](https://raw.githubusercontent.com/101Aditya/Context/refs/heads/main/genre/romance.jpg)
 
 ## Comedy
 
-![Comedy Cover](https://raw.githubusercontent.com/101Aditya/Context/refs/heads/main/Genre/comedy.jpg)
+![Comedy Cover](https://raw.githubusercontent.com/101Aditya/Context/refs/heads/main/genre/comedy.jpg)
 
 ## Crime
 
-![Crime Cover](https://raw.githubusercontent.com/101Aditya/Context/refs/heads/main/Genre/crime.jpg)
+![Crime Cover](https://raw.githubusercontent.com/101Aditya/Context/refs/heads/main/genre/crime.jpg)
 
 ## Animation
 
-![Animation Cover](https://raw.githubusercontent.com/101Aditya/Context/refs/heads/main/Genre/animation.jpg)
+![Animation Cover](https://raw.githubusercontent.com/101Aditya/Context/refs/heads/main/genre/animation.jpg)
 
