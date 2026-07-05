@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="140" viewBox="0 0 620 140">
+  <title>10s Animation</title>
+  <style><![CDATA[
+  @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500;600;700;800&family=Manrope:wght@300;400;500;600;700;800&family=Outfit:wght@300;400;500;600;700;800&family=Sora:wght@300;400;500;600;700;800&family=Space+Grotesk:wght@300;400;500;600;700&family=Figtree:wght@300;400;500;600;700;800&display=swap');
+  text { font-family: 'Inter', sans-serif; }
+  ]]></style>
+  <text xml:space="preserve" font-family="'Inter', sans-serif" font-weight="600" font-size="100" fill="#ecf000" dominant-baseline="middle" style="dominant-baseline:middle; alignment-baseline:middle;"><tspan x="0.00" y="70.00">1</tspan><tspan x="34.29" y="70.00">0</tspan><tspan x="92.25" y="70.00">s</tspan><tspan x="139.18" y="70.00"> </tspan><tspan x="156.38" y="70.00">A</tspan><tspan x="221.13" y="70.00">n</tspan><tspan x="274.31" y="70.00">i</tspan><tspan x="292.49" y="70.00">m</tspan><tspan x="374.53" y="70.00">a</tspan><tspan x="423.95" y="70.00">t</tspan><tspan x="451.25" y="70.00">i</tspan><tspan x="469.42" y="70.00">o</tspan><tspan x="522.31" y="70.00">n</tspan></text>
+</svg>
